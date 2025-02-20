@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Program.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:33:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:41:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:21:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:21:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:13:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:50:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:44:37.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
