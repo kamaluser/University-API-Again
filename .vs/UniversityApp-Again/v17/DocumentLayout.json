@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\groupdtos\\groupupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\groupdtos\\groupupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\dtos\\groupdtos\\groupcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\entities\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|c:\\users\\kamal\\desktop\\universityapp-again\\universityappagain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5633BDF5-5221-4511-A803-CD5086299868}|UniversityAppAgain\\UniversityAppAgain.csproj|solutionrelative:universityappagain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,91 +58,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Program.cs",
-              "RelativeDocumentMoniker": "UniversityAppAgain\\Program.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Program.cs",
-              "RelativeToolTip": "UniversityAppAgain\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Data\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:33:41.862Z",
+              "WhenOpened": "2025-02-23T16:17:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAUwHUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:07:43.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GroupConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
-              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
-              "RelativeToolTip": "UniversityAppAgain\\Data\\Configurations\\GroupConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:41:35.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:06:30.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuditEntity.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
-              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
-              "RelativeToolTip": "UniversityAppAgain\\Data\\Entities\\AuditEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "DocumentIndex": 4,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:21:35.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:06:19.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "UniversityAppAgain\\Data\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Dtos\\StudentDtos\\StudentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:21:11.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:06:09.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "GroupUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "RelativeToolTip": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:33:18.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GroupCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
               "RelativeDocumentMoniker": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
               "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
               "RelativeToolTip": "UniversityAppAgain\\Dtos\\GroupDtos\\GroupCreateDto.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:13:36.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T13:13:36.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UniversityAppAgain\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "UniversityAppAgain\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:50:04.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GroupsController.cs",
               "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\GroupsController.cs",
               "RelativeDocumentMoniker": "UniversityAppAgain\\Controllers\\GroupsController.cs",
               "ToolTip": "C:\\Users\\kamal\\Desktop\\UniversityApp-Again\\UniversityAppAgain\\Controllers\\GroupsController.cs",
               "RelativeToolTip": "UniversityAppAgain\\Controllers\\GroupsController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAwwC8AAAAdAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwHEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T11:44:37.298Z",
               "EditorCaption": ""

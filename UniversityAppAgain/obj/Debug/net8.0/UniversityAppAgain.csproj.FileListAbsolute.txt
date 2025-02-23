@@ -171,3 +171,4 @@ C:\Users\kamal\Desktop\UniversityApp-Again\UniversityAppAgain\bin\Debug\net8.0\F
 C:\Users\kamal\Desktop\UniversityApp-Again\UniversityAppAgain\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\kamal\Desktop\UniversityApp-Again\UniversityAppAgain\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
 C:\Users\kamal\Desktop\UniversityApp-Again\UniversityAppAgain\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\kamal\Desktop\UniversityApp-Again\UniversityAppAgain\obj\Debug\net8.0\UniversityAppAgain.sourcelink.json
